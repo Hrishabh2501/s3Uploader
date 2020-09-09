@@ -1,0 +1,14 @@
+Mon, 04 May 2020 16:59:30 GMT | INFO | signup.log | SIGNUP SUCCESS! | 
+Mon, 04 May 2020 17:00:35 GMT | INFO | signup.log | SIGNUP SUCCESS! | 
+Mon, 04 May 2020 17:02:10 GMT | ERROR | signup.log | EMAIL ALREADY EXIST | 
+Mon, 04 May 2020 18:00:19 GMT | ERROR | signup.log | EMAIL ALREADY EXIST | 
+Mon, 04 May 2020 18:00:58 GMT | ERROR | signup.log | EMAIL ALREADY EXIST | 
+Mon, 04 May 2020 18:02:33 GMT | INFO | signup.log | SIGNUP SUCCESS! | 
+Mon, 04 May 2020 18:03:44 GMT | ERROR | signup.log | EMAIL ALREADY EXIST | 
+Tue, 05 May 2020 05:41:02 GMT | ERROR | signup.log | EMAIL ALREADY EXIST | 
+Tue, 05 May 2020 05:41:30 GMT | ERROR | signup.log | EMAIL ALREADY EXIST | 
+Tue, 05 May 2020 05:43:36 GMT | INFO | signup.log | SIGNUP SUCCESS! | 
+Mon, 11 May 2020 05:40:17 GMT | INFO | signup.log | SIGNUP SUCCESS! | 
+Wed, 20 May 2020 09:32:22 GMT | INFO | signup.log | SIGNUP SUCCESS! | 
+Wed, 20 May 2020 10:54:22 GMT | INFO | signup.log | SIGNUP SUCCESS! | 
+Wed, 26 Aug 2020 07:19:09 GMT | INFO | signup.log | SIGNUP SUCCESS! | 

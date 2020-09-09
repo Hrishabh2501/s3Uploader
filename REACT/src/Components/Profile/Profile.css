@@ -1,0 +1,46 @@
+.profileHeader{
+    position: relative;
+    overflow: hidden;
+}
+.cont{
+    /* overflow: hidden; */
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+    background-color:  #1C8EF9;
+    align-items: center;
+    padding-left: 5;
+    padding-right: 5;
+    height: 500px;
+    border-radius: 25px;
+  border: 2px solid black;
+  padding: 20px;
+   
+
+}
+::-webkit-scrollbar 
+{
+    width: 0px;  /* Remove scrollbar space */
+    background: transparent;  /* Optional: just make scrollbar invisible */
+}
+
+
+.rowHead{
+    background-color: black;
+    color: blanchedalmond;
+}
+
+
+.rowData:nth-of-type(odd) {
+    background-color:#ccc;
+  }
+  #overlay {
+  /* Sit on top of the page content */
+/* Hidden by default */
+    /* Full height (cover the whole page) */
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0; /* Black background with opacity */
+    z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
+    cursor: pointer; /* Add a point*/
+  }
